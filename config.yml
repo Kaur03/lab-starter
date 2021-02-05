@@ -49,12 +49,12 @@ steps:
 #  description: # a description of the step, shown to the learner in the course progress page
 #  event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
 #  actions: # a list of the actions that will occur when the step is triggered by an event
-#  - type: # the type of action, full list at https://lab.github.com/docs/actions
+  - type: # the type of action, full list at https://lab.github.com/docs/actions
 
 # Step 5: This is the fifth step for the learning labs
  - title: # the title of the step, shown to the learner in the course progress page
 #  description: # a description of the step, shown to the learner in the course progress page
 #  event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
 #  actions: # a list of the actions that will occur when the step is triggered by an event
-#  - type: # the type of action, full list at https://lab.github.com/docs/actions
+  - type: # the type of action, full list at https://lab.github.com/docs/actions
 
